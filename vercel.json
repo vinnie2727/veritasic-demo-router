@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/equipment-risk-tower",
+      "destination": "https://equipment-risk-tower.vercel.app/equipment-risk-tower"
+    },
+    {
+      "source": "/equipment-risk-tower/:path*",
+      "destination": "https://equipment-risk-tower.vercel.app/equipment-risk-tower/:path*"
+    }
+  ]
+}
