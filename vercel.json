@@ -11,6 +11,18 @@
     {
       "source": "/equipment-risk-tower/:path*",
       "destination": "https://equipment-risk-tower.vercel.app/equipment-risk-tower/:path*"
+    },
+    {
+      "source": "/equipment-risk-tower-v0",
+      "destination": "https://equipment-risk-tower.vercel.app/equipment-risk-tower"
+    },
+    {
+      "source": "/equipment-risk-tower-v0/",
+      "destination": "https://equipment-risk-tower.vercel.app/equipment-risk-tower/"
+    },
+    {
+      "source": "/equipment-risk-tower-v0/:path*",
+      "destination": "https://equipment-risk-tower.vercel.app/equipment-risk-tower/:path*"
     }
   ]
 }
