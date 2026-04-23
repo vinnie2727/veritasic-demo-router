@@ -23,6 +23,18 @@
     {
       "source": "/equipment-risk-tower-v0/:path*",
       "destination": "https://equipment-risk-tower.vercel.app/equipment-risk-tower/:path*"
+    },
+    {
+      "source": "/console",
+      "destination": "https://veritasic-console.vercel.app/console"
+    },
+    {
+      "source": "/console/",
+      "destination": "https://veritasic-console.vercel.app/console/"
+    },
+    {
+      "source": "/console/:path*",
+      "destination": "https://veritasic-console.vercel.app/console/:path*"
     }
   ]
 }
