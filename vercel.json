@@ -25,6 +25,18 @@
       "destination": "https://equipment-risk-tower.vercel.app/equipment-risk-tower/:path*"
     },
     {
+      "source": "/disconnect-risk-tower",
+      "destination": "https://equipment-risk-tower.vercel.app/disconnect-risk-tower"
+    },
+    {
+      "source": "/disconnect-risk-tower/",
+      "destination": "https://equipment-risk-tower.vercel.app/disconnect-risk-tower/"
+    },
+    {
+      "source": "/disconnect-risk-tower/:path*",
+      "destination": "https://equipment-risk-tower.vercel.app/disconnect-risk-tower/:path*"
+    },
+    {
       "source": "/console",
       "destination": "https://veritasic-console.vercel.app/console"
     },
