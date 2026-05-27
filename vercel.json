@@ -47,6 +47,30 @@
     {
       "source": "/console/:path*",
       "destination": "https://veritasic-console.vercel.app/console/:path*"
+    },
+    {
+      "source": "/trenton-bess-delivery-dashboard",
+      "destination": "https://trenton-bess-delivery-dashboard.vercel.app/trenton-bess-delivery-dashboard"
+    },
+    {
+      "source": "/trenton-bess-delivery-dashboard/",
+      "destination": "https://trenton-bess-delivery-dashboard.vercel.app/trenton-bess-delivery-dashboard/"
+    },
+    {
+      "source": "/trenton-bess-delivery-dashboard/:path*",
+      "destination": "https://trenton-bess-delivery-dashboard.vercel.app/trenton-bess-delivery-dashboard/:path*"
+    },
+    {
+      "source": "/woodmac-agenticAI-product",
+      "destination": "https://woodmac-workspace.vercel.app/woodmac-agenticAI-product"
+    },
+    {
+      "source": "/woodmac-agenticAI-product/",
+      "destination": "https://woodmac-workspace.vercel.app/woodmac-agenticAI-product/"
+    },
+    {
+      "source": "/woodmac-agenticAI-product/:path*",
+      "destination": "https://woodmac-workspace.vercel.app/woodmac-agenticAI-product/:path*"
     }
   ]
 }
