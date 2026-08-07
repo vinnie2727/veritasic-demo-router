@@ -107,18 +107,6 @@
     {
       "source": "/dte-rfp-analyzer/:path*",
       "destination": "https://dte-rfp-analyzer.vercel.app/dte-rfp-analyzer/:path*"
-    },
-    {
-      "source": "/conversate-dashboard-v1",
-      "destination": "https://conversate-dashboard-v1.vercel.app/conversate-dashboard-v1"
-    },
-    {
-      "source": "/conversate-dashboard-v1/",
-      "destination": "https://conversate-dashboard-v1.vercel.app/conversate-dashboard-v1/"
-    },
-    {
-      "source": "/conversate-dashboard-v1/:path*",
-      "destination": "https://conversate-dashboard-v1.vercel.app/conversate-dashboard-v1/:path*"
     }
   ]
 }
