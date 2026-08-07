@@ -71,6 +71,54 @@
     {
       "source": "/woodmac-agenticAI-product/:path*",
       "destination": "https://woodmac-workspace.vercel.app/woodmac-agenticAI-product/:path*"
+    },
+    {
+      "source": "/wm-bench",
+      "destination": "https://wm-resource-mgmt.vercel.app/wm-bench"
+    },
+    {
+      "source": "/wm-bench/",
+      "destination": "https://wm-resource-mgmt.vercel.app/wm-bench/"
+    },
+    {
+      "source": "/wm-bench/:path*",
+      "destination": "https://wm-resource-mgmt.vercel.app/wm-bench/:path*"
+    },
+    {
+      "source": "/demo-bench",
+      "destination": "https://wm-resource-mgmt.vercel.app/demo-bench"
+    },
+    {
+      "source": "/demo-bench/",
+      "destination": "https://wm-resource-mgmt.vercel.app/demo-bench/"
+    },
+    {
+      "source": "/demo-bench/:path*",
+      "destination": "https://wm-resource-mgmt.vercel.app/demo-bench/:path*"
+    },
+    {
+      "source": "/dte-rfp-analyzer",
+      "destination": "https://dte-rfp-analyzer.vercel.app/dte-rfp-analyzer"
+    },
+    {
+      "source": "/dte-rfp-analyzer/",
+      "destination": "https://dte-rfp-analyzer.vercel.app/dte-rfp-analyzer/"
+    },
+    {
+      "source": "/dte-rfp-analyzer/:path*",
+      "destination": "https://dte-rfp-analyzer.vercel.app/dte-rfp-analyzer/:path*"
+    },
+    {
+      "source": "/conversate-dashboard-v1",
+      "destination": "https://conversate-dashboard-v1.vercel.app/conversate-dashboard-v1"
+    },
+    {
+      "source": "/conversate-dashboard-v1/",
+      "destination": "https://conversate-dashboard-v1.vercel.app/conversate-dashboard-v1/"
+    },
+    {
+      "source": "/conversate-dashboard-v1/:path*",
+      "destination": "https://conversate-dashboard-v1.vercel.app/conversate-dashboard-v1/:path*"
     }
   ]
 }
