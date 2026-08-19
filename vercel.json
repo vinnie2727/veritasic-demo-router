@@ -1,6 +1,18 @@
 {
   "rewrites": [
     {
+      "source": "/CE-PMO-dashboard-demo",
+      "destination": "https://ce-pmo-dashboard-demo.vercel.app/CE-PMO-dashboard-demo"
+    },
+    {
+      "source": "/CE-PMO-dashboard-demo/",
+      "destination": "https://ce-pmo-dashboard-demo.vercel.app/CE-PMO-dashboard-demo/"
+    },
+    {
+      "source": "/CE-PMO-dashboard-demo/:path*",
+      "destination": "https://ce-pmo-dashboard-demo.vercel.app/CE-PMO-dashboard-demo/:path*"
+    },
+    {
       "source": "/equipment-risk-tower",
       "destination": "https://equipment-risk-tower.vercel.app/equipment-risk-tower"
     },
@@ -107,6 +119,18 @@
     {
       "source": "/dte-rfp-analyzer/:path*",
       "destination": "https://dte-rfp-analyzer.vercel.app/dte-rfp-analyzer/:path*"
+    },
+    {
+      "source": "/waterfall_task_board",
+      "destination": "https://westfall-task-board.vercel.app/waterfall_task_board"
+    },
+    {
+      "source": "/waterfall_task_board/",
+      "destination": "https://westfall-task-board.vercel.app/waterfall_task_board/"
+    },
+    {
+      "source": "/waterfall_task_board/:path*",
+      "destination": "https://westfall-task-board.vercel.app/waterfall_task_board/:path*"
     }
   ]
 }
