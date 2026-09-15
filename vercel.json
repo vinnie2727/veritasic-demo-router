@@ -131,6 +131,46 @@
     {
       "source": "/waterfall_task_board/:path*",
       "destination": "https://pip-board.vercel.app/waterfall_task_board/:path*"
+    },
+    {
+      "source": "/home",
+      "destination": "https://srm-pilot.vercel.app/home"
+    },
+    {
+      "source": "/category-supplier-dashboard",
+      "destination": "https://srm-pilot.vercel.app/category-supplier-dashboard"
+    },
+    {
+      "source": "/category-supplier-dashboard/",
+      "destination": "https://srm-pilot.vercel.app/category-supplier-dashboard/"
+    },
+    {
+      "source": "/category-supplier-dashboard/:path*",
+      "destination": "https://srm-pilot.vercel.app/category-supplier-dashboard/:path*"
+    },
+    {
+      "source": "/supplier-dashboard-demo",
+      "destination": "https://srm-pilot.vercel.app/supplier-dashboard-demo"
+    },
+    {
+      "source": "/supplier-dashboard-demo/",
+      "destination": "https://srm-pilot.vercel.app/supplier-dashboard-demo/"
+    },
+    {
+      "source": "/supplier-dashboard-demo/:path*",
+      "destination": "https://srm-pilot.vercel.app/supplier-dashboard-demo/:path*"
+    },
+    {
+      "source": "/srm-qbr-eaton-pilot",
+      "destination": "https://srm-pilot.vercel.app/srm-qbr-eaton-pilot"
+    },
+    {
+      "source": "/srm-pilot-dashboard",
+      "destination": "https://srm-pilot.vercel.app/srm-pilot-dashboard"
+    },
+    {
+      "source": "/srm-qbr-pilot",
+      "destination": "https://srm-pilot.vercel.app/srm-qbr-pilot"
     }
   ]
 }
