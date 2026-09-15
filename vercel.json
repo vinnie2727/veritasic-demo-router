@@ -122,15 +122,15 @@
     },
     {
       "source": "/waterfall_task_board",
-      "destination": "https://westfall-task-board.vercel.app/waterfall_task_board"
+      "destination": "https://pip-board.vercel.app/waterfall_task_board"
     },
     {
       "source": "/waterfall_task_board/",
-      "destination": "https://westfall-task-board.vercel.app/waterfall_task_board/"
+      "destination": "https://pip-board.vercel.app/waterfall_task_board/"
     },
     {
       "source": "/waterfall_task_board/:path*",
-      "destination": "https://westfall-task-board.vercel.app/waterfall_task_board/:path*"
+      "destination": "https://pip-board.vercel.app/waterfall_task_board/:path*"
     }
   ]
 }
